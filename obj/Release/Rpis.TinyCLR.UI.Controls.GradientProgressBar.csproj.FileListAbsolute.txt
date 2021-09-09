@@ -1,0 +1,12 @@
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.pdb
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\mscorlib.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\obj\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.csprojAssemblyReference.cache
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\obj\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.csproj.CoreCompileInputs.cache
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\obj\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.csproj.CopyComplete
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\obj\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\obj\Release\Rpis.TinyCLR.UI.Controls.GradientProgressBar.pdb
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\GHIElectronics.TinyCLR.Devices.Display.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\GHIElectronics.TinyCLR.Drawing.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\GHIElectronics.TinyCLR.Native.dll
+D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Release\GHIElectronics.TinyCLR.UI.dll

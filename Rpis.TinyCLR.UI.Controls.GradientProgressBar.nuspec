@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<package xmlns = "http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd" >
+	<metadata>
+		<authors>SPE "Radio, devices and communication", LLC</authors>
+		<copyright>Copyright SPE "Radio, devices and communication", LLC 2020</copyright>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<licenseUrl>https://mit-license.org/</licenseUrl>
+		<description>Description</description>
+		<iconUrl>http://rpis.ru/images/logo128.png</iconUrl>
+		<tags>TinyCLR TinyCLROS Rpis</tags>
+
+		<id>Rpis.TinyCLR.UI.Controls.GradientProgressBar</id>
+		<title>Rpis.TinyCLR.UI.Controls.GradientProgressBar</title>
+		<version>2.1.0-rc2.1</version>
+		<dependencies>
+			<dependency id="GHIElectronics.TinyCLR.Core" version="2.1.0-rc2"/>
+			<dependency id="GHIElectronics.TinyCLR.UI" version="2.1.0-rc2"/>
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Debug\Rpis.TinyCLR.UI.Controls.GradientProgressBar.dll" target="lib\net452"/>
+		<file src="D:\RPiS\TinyCLR\Libraries\Rpis.TinyCLR.UI.Controls.GradientProgressBar\bin\Debug\Rpis.TinyCLR.UI.Controls.GradientProgressBar.pdb" target="lib\net452"/>
+	</files>
+</package>
+
